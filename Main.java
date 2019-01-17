@@ -9,10 +9,6 @@ import java.awt.event.KeyEvent;
 import java.awt.event.KeyListener;
 import java.util.*;
 
-/**
- * Created by kamran_lateef on 3/13/17.
- */
-
 public class Main extends JPanel {
 
     public static final int FRAMEWIDTH = 1430, FRAMEHEIGHT = 1000;
